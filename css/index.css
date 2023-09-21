@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "Itim";
+    src: url("../fuente/Itim-Regular.ttf");
+}
+*{
+    margin: 0%;
+    font-family: "Itim";
+}
+.fondo{
+   
+    background: #d6dfeb ;
+    background-image: url("../img/2.jpg");
+    
+    
+
+}
+.encabezado{
+
+    background-image: url("../img/Ee64UHP.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100vw;
+    height: 50vh;
+}
+.contenido{
+    background-color: rgb(116, 195, 240);
+    border-radius: 3%;
+    border: 1px solid #000;
+    margin: 5vw 5vh 5vw 5vh;
+}
+.seleccion{ 
+    
+    width: 100%;
+    height: auto;
+    text-align: center;     
+
+}
+.video{
+    width: 100%;
+    height: auto;
+    text-align: center;
+   
+
+}
+.contacto{
+    border: 1px solid #000;
+    margin: 5vw 5vh 5vw 5vh;
+}
+.formulario{
+    margin:6px;
+}
+p{
+    font-family:"Itim";
+    font-size: 20px;
+    /* text-align: center; */
+    
+}
+h1{
+    color: #a1bcdf;
+    font-size: 50px;
+    text-align: start;
+    padding-top: vh;
+    
+}
+h2{
+    position: relative;
+    text-align: center;
+    padding-inline-start: 5px;
+}
+
+
+
+
+
